@@ -2,17 +2,14 @@
 
 🙂 &nbsp; I'm a Full Stack JavaScript Developer
 
-🌱 &nbsp; I’m currently working as a Software Engineer in   [  Consoledot(https://consoledot.com/)
+🌱 &nbsp; I’m currently working as a Software Engineer in   [Consoledot(https://consoledot.com/)]
 
 🔥 &nbsp; Current hot take: Dark mode is not overrated
 
 ## Connect with me
 
-[<img align="left" alt="Email" height="25px" src="/Icons/email.png" />][email][saadusufzai@gmail.com](mailto:saadusufzai@gmail.com)<br />
+[<img align="left" alt="Email" height="25px" src="/Icons/email.png" />]MobileNo:+923354256862(mailto:saadusufzai@gmail.com)<br />
 
-[<img align="left" alt="Twitter" height="25px" src="/Icons/twitter.png" />][twitter][@saadusufzaii](https://twitter.com/saadusufzaii)
-
-[<img align="left" alt="Twitter" height="25px" src="/Icons/instagram.png" />][instagram][@saadusufzai](https://www.instagram.com/saadusufzai)
 
 ## Languages and tools that I use
 
