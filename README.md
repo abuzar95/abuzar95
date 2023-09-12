@@ -8,7 +8,7 @@
 
 ## Connect with me
 
-[<img align="left" alt="Email" height="25px" src="/Icons/email.png" />]MobileNo:+923354256862<br />
+<img align="left" alt="Email" height="25px" src="/Icons/email.png" />MobileNo:+923354256862<br />
 
 
 ## Languages and tools that I use
